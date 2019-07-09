@@ -1,1 +1,2 @@
+Lets do something crazy in the first file alone and make a commit
 This is the irst text ile
