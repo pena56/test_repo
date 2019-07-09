@@ -1,2 +1,3 @@
 Lets do something crazy in the first file alone and make a commit
 This is the irst text ile
+this is the first file and it was editted on github
